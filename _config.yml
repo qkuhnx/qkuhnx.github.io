@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: kuhn's logic
+title: Kuhn's Logic
 email: qkuhnx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    kuhn(but normally using qkuhnx for avoiding duplicate), computer science master degree candidate, south korea
-    I want develop my life. 
-    mostly I using korean language but I use english when work on linux(because keyboard setting is tired)
+    Kuhn(but normally using qkuhnx for avoiding duplicate), computer science master degree candidate, south korea >
+    I always make today better than yesterday. >
+    Anything to speed up
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
