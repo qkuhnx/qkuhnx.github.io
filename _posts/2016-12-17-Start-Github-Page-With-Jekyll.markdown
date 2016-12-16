@@ -18,7 +18,7 @@ github page는 github repository를 website로 사용할 수 있는 기능입니
     예제) qkuhnx
     user site repository : https://github.com/qkuhnx/qkuhnx.github.io/ 
     user site : https://qkuhnx.github.io/about/
-    
+
 #### github document
 github page는 github에서 관리하기 때문에, github 지원 기능들에 익숙하면 편리합니다
 
