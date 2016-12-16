@@ -4,7 +4,7 @@ title:  "Start Github Page With Jekyll"
 categories: software
 ---
 ## Blog를 만들기 위해 github page와 jekyll 사용하기
-Blog를 만드는 이유에 대해서는 about을 참조하세요.
+Blog를 만드는 이유에 대해서는 [about](/about/)을 참조하세요.
 
 ### github page
 github page는 github repository를 website로 사용할 수 있는 기능입니다.
