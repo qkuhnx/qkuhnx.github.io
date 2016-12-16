@@ -18,10 +18,6 @@ github page는 github repository를 website로 사용할 수 있는 기능입니
 
 절차를 마치면 github에 user site source를 가진 repository와 접속 가능한 user site를 얻습니다.
 
-    예제) qkuhnx
-    user site repository : https://github.com/qkuhnx/qkuhnx.github.io/ 
-    user site : https://qkuhnx.github.io/about/
-
 ### site generator
 모든 웹 사이트들은 html 파일로 구성됩니다. 따라서 웹 사이트에서 서비스 하고 싶은 내용이 있다면, 그 내용을 html 파일을 만들어 업로드하면 됩니다. 하지만 html 파일을 만드는 일은 매우 성가십니다. 
 
