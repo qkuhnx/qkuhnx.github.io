@@ -21,4 +21,4 @@ kuhn은 현재 south korea에서 computer science(CS) 분야 master degree candi
 3. 사용이 편리할수록 좋습니다.
 
 ### 모든 자료를 게시하지는 않습니다.
-github terms에 위반될 수 있는 자료들, 대용량 파일들, 개인정보를 포함하는 자료들 등은 게시하지 못합니다.
+[github terms](https://help.github.com/articles/github-terms-of-service/)에 위반될 수 있는 자료들, 대용량 파일들, 개인정보를 포함하는 자료들 등은 게시하지 못합니다.
