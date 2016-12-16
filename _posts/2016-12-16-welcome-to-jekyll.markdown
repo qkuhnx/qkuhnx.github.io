@@ -1,25 +1,53 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "start github pages with jekyll"
 date:   2016-12-16 08:40:55 +0900
-categories: jekyll update
+categories: software
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I need blog for logging my activity and sharing opinion
+it for only markdown document like major
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+using github page, my own address, free, HTTPS, all data public, 1GB
+tutorial -> https://pages.github.com/
+- repository
+git clone https://github.com/username/username.github.io
 
-Jekyll also offers powerful support for code snippets:
+-링크 사용 시 http 말고, https 만 사용할 것
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+-제약조건 -> https://help.github.com/articles/github-terms-of-service/
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+github pages document -> https://help.github.com/
+using page search(key : GitHub Pages)
+- read basic, end
+
+- if you don't understand it
+http://dogfeet.github.io/articles/2012/github-pages.html
+- try korean description
+
+
+how to set up local environment
+- https://help.github.com/categories/customizing-github-pages/
+
+https://jekyllrb-ko.github.io/
+
+
+
+need static site generator for easy write
+github page use jekyll(can others but its main)
+ko(2015.11.23)
+https://jekyllrb-ko.github.io/
+en(lastest)
+https://jekyllrb.com/
+- markdown
+- jekyll theme
+- site template
+- easy build
+
+
+additionally using disqus for sharing opinion
+(but disqus segregate anonymous comment)
+
+
+custom theme for jekyll
+https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
