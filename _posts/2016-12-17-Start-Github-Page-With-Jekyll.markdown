@@ -19,9 +19,9 @@ github page는 github repository를 website로 사용할 수 있는 기능입니
 절차를 마치면 github에 user site source를 가진 repository와 접속 가능한 user site를 얻습니다.
 
 ### site generator
-모든 웹 사이트들은 html 파일로 구성됩니다. 따라서 웹 사이트에서 서비스 하고 싶은 내용이 있다면, 그 내용을 html 파일을 만들어 업로드하면 됩니다. 하지만 html 파일을 만드는 일은 매우 성가십니다. 
+모든 웹 사이트들은 html 파일로 구성됩니다. 따라서 웹 사이트에서 서비스 하고 싶은 내용이 있다면, 그 내용을 html 파일을 만들어 업로드하면 됩니다.
 
-(static)site generator는 형식에 따라 문서를 입력받고, 적절한 html 파일로 변환해주는 도구입니다. 사용자는 html 파일을 직접 만들 필요가 없습니다. 
+html 파일을 쉽게 만들어 주는 도구로 (static) site generator가 있습니다. site generator는 형식에 따라 문서를 입력받고, 적절한 html 파일로 변환해주는 도구입니다. 사용자는 html 파일을 직접 만들지 않아도 됩니다. 
 
 #### jekyll
 jekyll은 open source 기반 static site generator 중 가장 [인기가](https://www.staticgen.com/) 많은 application 입니다.
