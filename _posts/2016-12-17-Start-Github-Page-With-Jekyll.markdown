@@ -6,6 +6,9 @@ categories: software
 ## Blog를 만들기 위해 github page와 jekyll 사용하기
 Blog를 만드는 이유에 대해서는 [about](/about/)을 참조하세요.
 
+- 웹 프로그래밍 지식 필요
+- github 사용 지식 필요
+
 ### github page
 github page는 github repository를 website로 사용할 수 있는 기능입니다.
 
@@ -19,7 +22,22 @@ github page는 github repository를 website로 사용할 수 있는 기능입니
     user site repository : https://github.com/qkuhnx/qkuhnx.github.io/ 
     user site : https://qkuhnx.github.io/about/
 
-#### github document
+### site generator
+모든 웹 사이트들은 html 파일로 구성됩니다. 따라서 웹 사이트에서 서비스 하고 싶은 내용이 있다면, 그 내용을 html 파일을 만들어 업로드하면 됩니다. 하지만 html 파일을 만드는 일은 매우 성가십니다. 
+
+(static)site generator는 형식에 따라 문서를 입력받고, 적절한 html 파일로 변환해주는 도구입니다. 사용자는 html 파일을 직접 만들 필요가 없습니다. 
+
+#### jekyll
+jekyll은 open source 기반 static site generator 중 가장 [인기가](https://www.staticgen.com/) 많은 application 입니다.
+
+github page는 기본적으로 [jekyll](https://jekyllrb.com/)을 지원합니다. 다른 static site generator를 사용할 수도 있지만, jekyll을 사용하면 github 문서나 Bundler 등 여러 도움을 받을 수 있습니다.
+
+[여기](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler)에서 jekyll 기반 github page local 개발 환경을 설정하세요.
+
+
+---
+
+### github document
 github page는 github에서 관리하기 때문에, github 지원 기능들에 익숙하면 편리합니다
 
 [github document](https://help.github.com/)는 github에 대한 모든 것들을 수록한 문서입니다.
@@ -30,24 +48,6 @@ page 관련한 내용만 보고 싶다면, 페이지 내 찾기(ctrl + F)를 사
 - [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/) <= 다른 모든 기능을 소개합니다.
 
 github site의 제약조건을 더 알고 싶다면 [이곳](https://help.github.com/articles/github-terms-of-service/)을 읽으세요
-
-### jekyll
-github page는 일반적인 웹 서버처럼 html 파일을 사용해 서비스가 가능합니다.
-
-하지만 사용자가 html을 사용해 모든 글을 작성하는 것은 매우 힘듭니다.
-
-따라서 github 에서는 기본적인 site generator로 [jekyll](https://jekyllrb.com/)을 사용합니다.([한국어 번역](https://jekyllrb-ko.github.io/))
-
-site generator는 사용자의 파일들을 바탕으로 간편하게 글을 생성해 줍니다.
-
-    다른 site generator를 사용할 수도 있지만 jekyll은 theme, markdown, template 등을 지원하면서도 간단한 글 생성이 가능합니다.
-  
-#### site generator
-
-### set up local development 
-jekyll을 이용한 page는 github에 업로드하지 않고도 볼 수 있습니다.
-
-[여기](https://help.github.com/categories/customizing-github-pages/)에서 어떻게 local 환경에 jekyll page 개발 환경을 구성할 수 있는지 알아보세요.
 
 ### addtional
 사용하는데 편리한 추가적인 기능입니다.
