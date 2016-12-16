@@ -7,7 +7,6 @@ categories: software
 Blog를 만드는 이유에 대해서는 [about](/about/)을 참조하세요.
 
 - 웹 프로그래밍 지식 필요
-- github 사용 지식 필요
 
 ### github page
 github page는 github repository를 website로 사용할 수 있는 기능입니다.
