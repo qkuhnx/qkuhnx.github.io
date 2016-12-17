@@ -27,7 +27,7 @@ jekyll은 open source 기반 static site generator 중 가장 [인기가](https:
 
 github page는 기본적으로 [jekyll](https://jekyllrb.com/)을 지원합니다. 다른 static site generator를 사용할 수도 있지만, jekyll을 사용하면 github 문서나 Bundler 등 여러 도움을 받을 수 있습니다.
 
-[여기](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler)에서 jekyll 기반 github page local 개발 환경을 설정하세요.
+[이 페이지](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler)는 jekyll 기반 github page의 local 개발 환경을 설정하는 방법을 안내합니다.
 
 
 ---
